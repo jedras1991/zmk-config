@@ -1,0 +1,1 @@
+zmk_studio_shield(redox_studio)
