@@ -10,8 +10,8 @@
 #include <dt-bindings/zmk/outputs.h>
 
 / {
+    &studio_unlock;
     keymap {
-        &studio_unlock;
         compatible =  "zmk,keymap" ;
 
         default_layer {
