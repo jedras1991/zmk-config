@@ -10,7 +10,6 @@
 #include <dt-bindings/zmk/outputs.h>
 
 / {
-    &studio_unlock;
     keymap {
         compatible =  "zmk,keymap" ;
 
